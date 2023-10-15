@@ -1,5 +1,5 @@
 ---
-date: "2023-10-14"
+date: "2023-10-13"
 title: "Testings for our coming knowledge base"
 short_description: "Coming soon"
 tags: ["Test", "Support", "Citybuild"]
@@ -13,7 +13,3 @@ header_img: "header-1"
 ## Title
 
 > Hey 👋, it's just a test file!
-
-
-## Support
-We don't know ⭕
